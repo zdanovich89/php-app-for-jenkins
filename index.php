@@ -47,7 +47,7 @@ else
         </ul>
 
         <h2>Some pictures</h2>
-        <img src="image.jpg">
+        <img src="image.jpg" style="max-width:500px;object-fit:contain;">
     </section>
 
     <!--[if lt IE 9]><script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script><![endif]-->
